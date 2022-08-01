@@ -35,9 +35,9 @@ Run App
 
 ##  Libraries I use in the template:
 
-Flutter screenutil : https://pub.dev/packages/flutter_screenutil
-Adaptive Theme : https://pub.dev/packages/adaptive_theme
-Flutter dotenv : https://pub.dev/packages/flutter_dotenv
+- Flutter screenutil : https://pub.dev/packages/flutter_screenutil
+- Adaptive Theme : https://pub.dev/packages/adaptive_theme
+- Flutter dotenv : https://pub.dev/packages/flutter_dotenv
 
 
 
